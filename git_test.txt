@@ -3,3 +3,5 @@ det her er test nummer 1
 Nu også med test nummer 2
 
 Nu også med test nummer 3
+
+her er linje 4
